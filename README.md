@@ -1,2 +1,2 @@
 # Advanced-Data-Science-Apache-Spark-Scalable-Data-Science
-Apache Spark is the de-facto standard for large scale data processing
+Apache Spark is the de-facto standard for large scale data processing. This is the first course of a series of courses towards the IBM Advanced Data Science Specialization. We strongly believe that is is crucial for success to start learning a scalable data science platform since memory and CPU constraints are to most limiting factors when it comes to building advanced machine learning models.
